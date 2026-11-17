@@ -78,7 +78,7 @@ fraud-api/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/fraud-api.git
+git clone https://github.com/<sharadyadav-ai>/fraud-api.git
 cd fraud-api
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
