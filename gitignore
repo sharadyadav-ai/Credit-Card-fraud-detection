@@ -1,0 +1,22 @@
+# Data (download from Kaggle; never commit)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets / local config
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Baseline experiment output
+artifacts_baseline/
